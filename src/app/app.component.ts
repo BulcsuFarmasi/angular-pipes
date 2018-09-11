@@ -13,4 +13,5 @@ export class AppComponent {
     city: 'Jaipur',
     country: 'India'
   }
+  date = new Date();
 }
