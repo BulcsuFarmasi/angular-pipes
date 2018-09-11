@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   nameCase = 'Angular Pipes';
-  nameTitle = 'Welcome to angular pipes project'
+  nameTitle = 'Welcome to angular pipes project',
+  nameSlice = 'AngularPipes'
 }
