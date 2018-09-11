@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  name = 'Angular Pipes';
+  nameCase = 'Angular Pipes';
+  nameTitle = 'Welcome to angular pipes project'
 }
